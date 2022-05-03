@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "fir-rest-api-9b588",
+    "Api-testing-app": "fir-rest-api-9b588"
+  },
+  "targets": {}
+}
